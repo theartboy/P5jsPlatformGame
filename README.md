@@ -5,6 +5,6 @@ The code was developed in stages to learn the foundation process of writing a pl
 
 Sound in Processing uses the Minim sound library. Migrating to P5js uses the P5 sound library. Sound effects were created using the online sound generator [bfxr](https://www.bfxr.net/)
 
-Many thanks to [Kevin MacLeod] (http://incompetech.com) for the awesome music.
+Many thanks to [Kevin MacLeod](http://incompetech.com) for the awesome music.
 Licensed under Creative Commons: By Attribution 3.0 License
 http://creativecommons.org/licenses/by/3.0/
